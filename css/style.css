@@ -43,7 +43,7 @@ nav ul li a{
 }
 nav ul li a:hover{
 	color: #f9004d;
-	transition: .4s;
+	transition: 0.4s;
 }
 
 .btn{
@@ -54,7 +54,7 @@ nav ul li a:hover{
 	font-weight: bold;
 	padding: 10px 25px;
 	border-radius: 30px;
-	transition: transform .4s; 
+	transition: transform 0.4s; 
 }
 .btn:hover{
 	transform: scale(1.2);

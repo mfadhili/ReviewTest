@@ -1,36 +1,40 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Project : Code Review
 
-> Description the project.
+> this project is a project that we did during the admission to microverse. It is simple responsive page. Its purpose is practicing reviewing
 
 
 ## Built With
 
 - Major languages
-- Frameworks
-- Technologies used
+-- Html
+-- CSS
+-- JavaScript
 
-## Live Demo (if available)
 
-[Live Demo Link](https://livedemo.com)
+
 
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+Clone the repository.
 
 
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
+ Web browser (Chrome is recommended)
 
 ### Setup
+No scripts for setup
 
 ### Install
+No packages to be installed
 
 ### Usage
+
+Open file [index.html](./index.html) using a web server
 
 ### Run tests
 
@@ -40,17 +44,13 @@ To get a local copy up and running follow these simple example steps.
 
 ## Authors
 
-👤 **Author1**
+👤 **Mfadhili**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/mfadhili)
+- Twitter: [@twitterhandle](https://twitter.com/Mfadhili3)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/mfadhili-gitau-b9294122b/)
 
-👤 **Author2**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 
@@ -64,12 +64,10 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Thank you @EmeryKroquet [https://github.com/EmeryKroquet] for assisting in the initial setup
 
 ## 📝 License
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](./MIT.md) licensed.
 
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
+

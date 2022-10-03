@@ -34,7 +34,7 @@ span {
   color: #f9004d;
 }
 
-nav ul li{
+nav ul li {
   list-style-type: none;
   display: inline-block;
   padding: 10px  25px;
@@ -45,6 +45,20 @@ nav ul li a {
   text-decoration: none;
   font-weight: bold;
   text-transform: capitalize;
+}
+
+.social a {
+  width: 45px;
+  height: 45px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #f9004d;
+  border-radius: 50%;
+  margin: 22px 10px;
+  color: white;
+  text-decoration: none;
+  font-size: 20px;
 }
 
 nav ul li a:hover {
@@ -118,12 +132,12 @@ h4 {
   color: white;
   box-shadow: 0 0 5px #000, 0 0 15px #858585;
   top: 6px;
-  right: 6px; 
+  right: 6px;
 }
 
 .about {
   width: 100%;
-  padding: 100px 0px;
+  padding: 100px 0;
   background-color: #191919;
 }
 
@@ -150,6 +164,12 @@ h4 {
   font-size: 75px;
   text-transform: capitalize;
   margin-bottom: 20px;
+}
+
+h5 {
+  color: white;
+  font-size: 23px;
+  margin-bottom: 15px;
 }
 
 .about-text h5 {
@@ -224,12 +244,6 @@ button:hover {
   text-align: center;
   margin: 25px 0;
   color: #f9004d;
-}
-
-h5 {
-  color: white;
-  font-size: 23px;
-  margin-bottom: 15px;
 }
 
 .pra p {
@@ -318,20 +332,6 @@ footer p:nth-child(2) {
 
 .social {
   display: flex;
-}
-
-.social a {
-  width: 45px;
-  height: 45px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  background: #f9004d;
-  border-radius: 50%;
-  margin: 22px 10px;
-  color: white;
-  text-decoration: none;
-  font-size: 20px;
 }
 
 .social a:hover {
